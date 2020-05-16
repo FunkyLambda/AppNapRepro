@@ -17,7 +17,11 @@ Repro of a vanilla Xamarin.Mac app napping despite being instructed not to.
 
 6. There is.
 
+## Notes
+
+`AppDelegate.cs` is the only place in the vannila solution where I've made the relevant code edits.
+
 ## Environment
 
-OS: macOS Catalina, 10.15.4
+OS: macOS Catalina, 10.15.4 <br/>
 Processor: 2.4 GHz Quad-Core Intel Core i5
